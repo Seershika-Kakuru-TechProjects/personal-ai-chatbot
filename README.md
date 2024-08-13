@@ -37,6 +37,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## About
 For this project, I created an AI-powered personal support chatbot using Next.js and the Groq AI (Llama3 model).
+![chatbot-1](https://github.com/user-attachments/assets/77581c7f-2b48-4894-a5d5-3e8fae2e9568)
+![chatbot-2](https://github.com/user-attachments/assets/90fe62b5-08d4-4ce8-80a4-4c94898a40af)
 
 ## Skills
 - Node.js
