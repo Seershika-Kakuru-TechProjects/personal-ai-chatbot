@@ -35,10 +35,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## App Link [Vercel]
-
-https://personal-ai-chatbot-phi.vercel.app/
-
 ## About
 For this project, I created an AI-powered personal support chatbot using Next.js and the Groq AI (Llama3 model).
 
