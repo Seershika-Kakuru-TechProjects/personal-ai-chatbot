@@ -9,7 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
     "@fontsource/dancing-script": "^5.0.18",
+    "@fontsource/lora": "^5.0.17",
+    "@mui/material": "^5.16.7",
+    "axios": "^1.7.4",
+    "groq-sdk": "^0.5.0",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18"
